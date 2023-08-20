@@ -970,6 +970,14 @@ highlight! link RainbowLevel6 Yellow
 highlight! link RainbowLevel7 Green
 highlight! link RainbowLevel8 Blue
 " }}}
+" HiPhish/rainbow-delimiters.nvim {{{
+highlight! link RainbowDelimiterRed Red
+highlight! link RainbowDelimiterOrange Orange
+highlight! link RainbowDelimiterYellow Yellow
+highlight! link RainbowDelimiterGreen Green
+highlight! link RainbowDelimiterCyan Blue
+highlight! link RainbowDelimiterViolet Purple
+" }}}
 " kshenoy/vim-signature {{{
 highlight! link SignatureMarkText BlueSign
 highlight! link SignatureMarkerText PurpleSign

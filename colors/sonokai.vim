@@ -975,7 +975,7 @@ highlight! link RainbowDelimiterRed Red
 highlight! link RainbowDelimiterOrange Orange
 highlight! link RainbowDelimiterYellow Yellow
 highlight! link RainbowDelimiterGreen Green
-highlight! link RainbowDelimiterBlue Blue
+highlight! link RainbowDelimiterBlue BlueSign
 highlight! link RainbowDelimiterViolet Purple
 " }}}
 " kshenoy/vim-signature {{{
